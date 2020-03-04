@@ -10,7 +10,7 @@ The goal of this document is to be constantly iterated and become a living, evol
 
 ## Car / transportation
 
-If you have a car, or plan to buy one, you&#39;re probably set. But the truth is that a lot of interns or foreigners dont have cars. But do note that living in Knoxville without a car is quite difficult. Unless you live on campus or downtown, you can&#39;t really walk / bike to restaurants / grocery stores. More is explained below. Also, if you haven&#39;t heard, the ORNL campus (the main campus. The MDF campus is not.) is a guarded campus with two entrance gates (also shown on map below). Here are your options for your commute to work:
+If you have a car, or plan to buy one, you&#39;re probably set (There's more about buying a car later). But the truth is that a lot of interns or foreigners dont have cars. But do note that living in Knoxville without a car is quite difficult. Unless you live on campus or downtown, you can&#39;t really walk / bike to restaurants / grocery stores. More is explained below. Also, if you haven&#39;t heard, the ORNL campus (the main campus. The MDF campus is not.) is a guarded campus with two entrance gates (also shown on map below). Here are your options for your commute to work:
 
 ### 1. Carpool
 
@@ -142,6 +142,12 @@ Note that you need an ID and 2 proofs of residency to get it. ([link](https://ww
 
 For non citizens, do note that some places won't do `foreigners` (I know right). The place I know that does it are [here](https://www.dmvnearme.net/en/oak-ridge-driver-services-center/767) and [here](https://www.google.com/maps/place/Knoxville%2FStrawberry+Plains+Driver+Services+Center/@36.00152,-83.9030249,11z/data=!4m5!3m4!1s0x0:0xa388d08488115946!8m2!3d36.00152!4d-83.771704). Also, some places don't do new licenses, and only do renewals. I was able to get a new license, as a foreigner from [here](https://www.google.com/maps/place/Knoxville%2FStrawberry+Plains+Driver+Services+Center/@36.00152,-83.9030249,11z/data=!4m5!3m4!1s0x0:0xa388d08488115946!8m2!3d36.00152!4d-83.771704), and was able to get it renewed [here](https://www.dmvnearme.net/en/oak-ridge-driver-services-center/767). Guess who waited in a clusterflock for an hour to find that out. Also, pay extra care for your identity documents as a non-citizen (I know right, story of my life). You'd need your passport, and your proof that you're not illegal (I-20 for F1, I-797 for H1b). They also issue the drivers license up till your status expiration date. So that's fun.
 
+
+## Buying a car
+
+Your best bet would be to get an auto loan from the credit union. No one else will probably give you a loan, especially if you're in a shorter-term H1b visa.
+
 What other stuff??
 
 Please feel free to make a PR or make issues on what you want to know more about
+
