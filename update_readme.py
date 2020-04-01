@@ -1,4 +1,6 @@
-# A traveler's guide to Oak Ridge National Laboratory
+import os
+
+readme_template ="""# A traveler's guide to Oak Ridge National Laboratory
 
 
 Dear all, change is hard. If you are coming to a completely different city for work, doubly so. We get you, it&#39;s terrifying, and there&#39;s seemingly a million things you need to take care of. But you&#39;re also excited, and you want this. I&#39;ve been there, and I know how scary it is. You&#39;re going in completely blind. My hope is to make this transition at least a bit smoother for you.
@@ -12,11 +14,23 @@ The goal of this rpeo is to be constantly iterated and become a living, evolving
 - make pull requests on what you think would be helpful!
 
 ## Table of Contents
-1. Living
-	1. [Taxes](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/taxes.md)
-	2. [Housing](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/housing.md)
-	3. [Drivers license](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/drivers_license.md)
-	4. [Car purchase](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/car_purchase.md)
-	5. [Car transportation](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/car_transportation.md)
-2. Ornl logistics
+$table_of_contents
+"""
 
+
+link_parent = 'https://github.com/jbae11/travellers_guide_to_ornl/blob/master/'
+
+here = os.path.dirname(os.path.abspath(__file__))
+exempt = ['.git', 'images']
+folders = [x for x in os.listdir(here) if os.path.isdir(x) and x not in exempt]
+table_of_contents_str = ''
+for indx, folder in enumerate(folders):
+    table_of_contents_str += '%s. %s\n' %(indx+1, folder.replace('_', ' ').capitalize())
+    subfiles = [q for q in os.listdir(os.path.join(here, folder))]
+    for indx2, file in enumerate(subfiles):
+        link = os.path.join(link_parent, folder, file)
+        name = file.replace('.md', '').replace('_', ' ').capitalize()
+        table_of_contents_str += '\t%s. [%s](%s)\n' %(indx2+1, name, link)
+
+with open('README.md', 'w') as f:
+    f.write(readme_template.replace('$table_of_contents', table_of_contents_str))
