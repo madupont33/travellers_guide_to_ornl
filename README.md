@@ -13,10 +13,10 @@ The goal of this rpeo is to be constantly iterated and become a living, evolving
 
 ## Table of Contents
 1. Living
-	1. [Taxes](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/taxes.md)
-	2. [Housing](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/housing.md)
+	1. [Car purchase](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/car_purchase.md)
+	2. [Car transportation](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/car_transportation.md)
 	3. [Drivers license](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/drivers_license.md)
-	4. [Car purchase](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/car_purchase.md)
-	5. [Car transportation](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/car_transportation.md)
+	4. [Housing](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/housing.md)
+	5. [Taxes](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/taxes.md)
 2. Ornl logistics
 

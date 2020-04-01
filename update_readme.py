@@ -26,7 +26,8 @@ folders = [x for x in os.listdir(here) if os.path.isdir(x) and x not in exempt]
 table_of_contents_str = ''
 for indx, folder in enumerate(folders):
     table_of_contents_str += '%s. %s\n' %(indx+1, folder.replace('_', ' ').capitalize())
-    subfiles = [q for q in os.listdir(os.path.join(here, folder))]
+    subfiles = sorted([q for q in os.listdir(os.path.join(here, folder))])
+
     for indx2, file in enumerate(subfiles):
         link = os.path.join(link_parent, folder, file)
         name = file.replace('.md', '').replace('_', ' ').capitalize()
