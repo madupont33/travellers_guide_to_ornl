@@ -4,7 +4,7 @@ If you have a car, or plan to buy one, you&#39;re probably set (There's more abo
 
 ## 1. Carpool
 
-The best idea would be to live with someone who has a car, so you can ride with them. If that is not the case, you can find people that can give you rides at the Facebook group, or other means. Make sure you&#39;re courteous by offering to pay for gas and being punctual.
+The best idea would be to live with someone who has a car, so you can ride with them. If that is not the case, you can find people that can give you rides at the Facebook group, or other means. There is also a [carpool website](http://knoxsmarttrips.org) where you can find people near you. Also, you can ask the group administrator to send out an email to help you find people to carpool with. Make sure you&#39;re courteous by offering to pay for gas and being punctual.
 
 ## 2. Bus
 
