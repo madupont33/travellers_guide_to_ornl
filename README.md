@@ -3,7 +3,8 @@
 
 Dear all, change is hard. If you are coming to a completely different city for work, doubly so. We get you, it&#39;s terrifying, and there&#39;s seemingly a million things you need to take care of. But you&#39;re also excited, and you want this. I&#39;ve been there, and I know how scary it is. You&#39;re going in completely blind. My hope is to make this transition at least a bit smoother for you.
 
-I have been a summer intern, a post-master research associate, and am now a staff at ORNL. Throughout my beautiful years with ORNL, I learned a thing or two cause I&#39;ve seen a thing or two (insert Farmer&#39;s insurance jingle here), and hopefully I can transfer my experience to make your transition smoother.
+My name is Jin Whan Bae.
+I have been a summer intern (2018), a post-master research associate (2019), and am now a staff at ORNL (2020-). Throughout my beautiful years with ORNL, I learned a thing or two cause I&#39;ve seen a thing or two (insert Farmer&#39;s insurance jingle here), and hopefully I can transfer my experience to make your transition smoother.
 
 The goal of this rpeo is to be constantly iterated and become a living, evolving, central repository for new-to-ORNL people&#39;s survival guide. Please do comment and ask questions - I want to know what you want to know.
 
