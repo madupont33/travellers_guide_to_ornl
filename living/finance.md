@@ -14,5 +14,5 @@ and everything is more or less doable online, but if you want that access, make 
 Sometimes you might want a credit card. If you don't have a credit history (It hasn't been long since you've
 been in the U.S.), it might be hard for you to get a credit card. Again, your best
 bet would be the ORNL credit union. Also, for people with short credit histories,
-Discovery is a good option. They are known for giving out credit cards easily. You might have a
+Discover is a good option. They are known for giving out credit cards easily. You might have a
 lower credit limit (~$500), though. But hey, you gotta start somewhere right?
