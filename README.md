@@ -19,6 +19,4 @@ The goal of this rpeo is to be constantly iterated and become a living, evolving
 	4. [Finance](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/finance.md)
 	5. [Housing](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/housing.md)
 	6. [Taxes](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/living/taxes.md)
-2. Ornl logistics
-	1. [First day](https://github.com/jbae11/travellers_guide_to_ornl/blob/master/ornl_logistics/first_day.md)
 
